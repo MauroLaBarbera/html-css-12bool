@@ -8,6 +8,7 @@ h1,
 h2 {
     text-align: center;
     margin-bottom: 2rem;
+    margin-top: 2rem;
     font-weight: 400;
 }
 
@@ -17,5 +18,4 @@ h2 {
     border: 1px solid #000;
     text-align: center;
     margin-top: 10px;
-}
 }
